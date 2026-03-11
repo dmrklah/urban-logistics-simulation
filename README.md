@@ -2,7 +2,6 @@
 
 **Module:** Advanced Simulation Techniques  
 **Degree:** BSc Computer Science and Digitization  
-**Student:** Hayrünisa Demirkala
 
 ---
 
